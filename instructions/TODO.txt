@@ -1,0 +1,1 @@
+1. Try -> E. Jang's TensorFlow debugger tool from https://github.com/ericjang/tdb
