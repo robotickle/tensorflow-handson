@@ -1,1 +1,5 @@
-1. Try -> E. Jang's TensorFlow debugger tool from https://github.com/ericjang/tdb
+0. Install venv, and cd to the folder where you have it installed.
+1. Enable venv -> ml$: source venv/bin/activate
+2. Try -> E. Jang's TensorFlow debugger tool from https://github.com/ericjang/tdb
+
+
