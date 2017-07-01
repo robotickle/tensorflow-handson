@@ -1,5 +1,8 @@
 0. Install venv, and cd to the folder where you have it installed.
 1. Enable venv -> ml$: source venv/bin/activate
 2. Try -> E. Jang's TensorFlow debugger tool from https://github.com/ericjang/tdb
+4. Try MobileNet.
+5. Try object tetection API in TF -> https://techcrunch.com/2017/06/16/object-detection-api/?ncid=rss&utm_source=tcfbpage&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&utm_content=FaceBook&sr_share=facebook
+6. 
 
 
